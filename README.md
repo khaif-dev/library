@@ -1,0 +1,27 @@
+# PERSONAL LIBRARY
+
+A simple and interactive browser based personal library. Built using HTML, CSS, and JavaScript with the aim of understanding object constructors, prototype  and prototype inheritance.
+Users can add books, mark them as read or unread and remove them from the library.
+
+## Features
+
+-**Add New Book**  
+  Users can input a book title, author, number of pages, and reading status.
+-**Unique IDs**  
+  Each book object is assigned a unique ID for proper tracking and manipulation.
+-**Toggle Status**  
+  A button on each book card allows toggling between "Read" and "Not Read".
+- **Remove Book**  
+  Each book card includes a remove button for easy removal from the library.
+
+## Technologies Used
+- HTM
+- CSS3
+- JavaScript 
+
+## How to Use
+
+Clone the repository:
+   ```bash
+   git clone https://github.com/immaculate-khaoma/etch-a-sketch.git
+
