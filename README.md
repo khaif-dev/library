@@ -7,11 +7,14 @@ Users can add books, mark them as read or unread and remove them from the librar
 ## Features
 
 **Add New Book**  
-  Users can input a book title, author, number of pages, and reading status.
+  Users can input a book title, author, number of pages, and reading status.  
+  
 **Unique IDs**  
-  Each book object is assigned a unique ID for proper tracking and manipulation.
+  Each book object is assigned a unique ID for proper tracking and manipulation.  
+  
 **Toggle Status**  
-  A button on each book card allows toggling between "Read" and "Not Read".
+  A button on each book card allows toggling between "Read" and "Not Read".  
+  
 **Remove Book**  
   Each book card includes a remove button for easy removal from the library.
 
