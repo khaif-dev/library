@@ -6,13 +6,13 @@ Users can add books, mark them as read or unread and remove them from the librar
 ![image alt](https://github.com/khaif-dev/library/blob/0c0a60364d520562212d45b8a7ae2bf163e032d2/Screenshot%202025-07-25%20095113.png)
 ## Features
 
--**Add New Book**  
+**Add New Book**  
   Users can input a book title, author, number of pages, and reading status.
--**Unique IDs**  
+**Unique IDs**  
   Each book object is assigned a unique ID for proper tracking and manipulation.
--**Toggle Status**  
+**Toggle Status**  
   A button on each book card allows toggling between "Read" and "Not Read".
-- **Remove Book**  
+**Remove Book**  
   Each book card includes a remove button for easy removal from the library.
 
 ## Technologies Used
