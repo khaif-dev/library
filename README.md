@@ -23,5 +23,5 @@ Users can add books, mark them as read or unread and remove them from the librar
 
 Clone the repository:
    ```bash
-   git clone https://github.com/immaculate-khaoma/etch-a-sketch.git
+   https://github.com/khaif-dev/library
 
