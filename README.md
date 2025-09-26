@@ -6,7 +6,7 @@ Users can add books, mark them as read or unread and remove them from the librar
 ## Preview
 [view the live demo here](https://khaif-dev.github.io/library/)
 
-![Project Screenshot](./assets/lib.jpg)
+![Project Screenshot](./assets/Screenshot%202025-07-25%20095113.png)
 ## Features
 
 **Add New Book**  
