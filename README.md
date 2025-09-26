@@ -3,7 +3,10 @@
 A simple and interactive browser based personal library. Built using HTML, CSS, and JavaScript with the aim of understanding object constructors, prototype  and prototype inheritance.
 Users can add books, mark them as read or unread and remove them from the library.
 
-![image alt](https://github.com/khaif-dev/Odin/blob/main/lib/Screenshot%202025-07-25%20095113.png)
+## Preview
+[view the live demo here](https://khaif-dev.github.io/library/)
+
+![Project Screenshot](./assets/lib.jpg)
 ## Features
 
 **Add New Book**  
